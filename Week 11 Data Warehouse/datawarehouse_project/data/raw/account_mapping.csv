@@ -1,0 +1,10 @@
+AccountNumber,AccountName,PLLine,StatementType,SortOrder,Notes
+3000,Product Sales,Revenue,P&L,10.0,
+3010,Online Sales,,,,New online channel – mapping not yet confirmed
+4000,Cost of Goods Sold,COGS,P&L,20.0,
+4100,Freight Costs,,P&L,25.0,Used occasionally – please confirm if part of COGS
+5000,Salaries & Wages,Operating Expenses,P&L,30.0,
+5100,Rent Expense,Operating Expenses,P&L,35.0,
+5100,Rent (HQ),Admin Costs,P&L,36.0,Split between HQ and stores?
+5200,Marketing exp,Marketing,P L,40.0,Should this be grouped with Operating Expenses?
+7000,Interest Expense,,,,Financial cost – please confirm where it should appear in the P&L

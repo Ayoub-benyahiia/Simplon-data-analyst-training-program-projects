@@ -1,0 +1,8 @@
+store_code,country,region
+NO001,Norway,East
+NO002,Norway,West
+NO003,Norway,Mid
+SE001,Sweden,East
+SE002,Sweden,West
+EC_NO,Norway,National
+EC_SE,Sweden,National

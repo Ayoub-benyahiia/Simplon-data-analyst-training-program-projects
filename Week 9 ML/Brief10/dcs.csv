@@ -1,0 +1,12 @@
+Colonne,Description,Nature Technique
+airline,Nom de la compagnie aérienne.,Discrete (Nominal)
+flight,Code d'identification du vol.,Categorical (ID)
+source_city,Ville de départ du vol.,Discrete (Nominal)
+departure_time,Tranche horaire du décollage.,Discrete (Nominal)
+stops,Nombre d'escales effectuées.,Discrete (Ordinal)
+arrival_time,Tranche horaire de l'arrivée.,Discrete ( Nominal)
+destination_city,Ville d'arrivée du vol.,Discrete (Nominal)
+class,Type de cabine (siège).,Discrete (Ordinal)
+duration,Durée totale du vol (heures).,Continuous (Numerical)
+days_left,Jours restants avant le vol.,Discrete (Numerical)
+price,Prix du billet (Target).,Continuous (Numerical)

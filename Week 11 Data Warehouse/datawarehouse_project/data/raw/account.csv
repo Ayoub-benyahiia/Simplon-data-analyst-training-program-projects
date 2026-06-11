@@ -1,0 +1,7 @@
+account_number,account_name,account_type,currency
+3000,Product Sales,Revenue,NOK
+4000,Cost of Goods Sold,COGS,NOK
+5000,Salaries & Wages,Operating Expense,NOK
+5100,Rent Expense,Operating Expense,NOK
+5200,Marketing Expense,Operating Expense,NOK
+7000,Interest Expense,Financial,NOK

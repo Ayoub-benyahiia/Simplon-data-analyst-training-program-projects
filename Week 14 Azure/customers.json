@@ -1,0 +1,272 @@
+[
+  {
+    "customer_id": 101,
+    "first_name": "Youssef",
+    "last_name": "Alaoui",
+    "email": "user101@example.com",
+    "phone": "0612345678",
+    "city": "Casablanca",
+    "registration_date": "2023-09-14"
+  },
+  {
+    "customer_id": 102,
+    "first_name": "Salma",
+    "last_name": "Bennani",
+    "email": "user102@example.com",
+    "phone": "0623456789",
+    "city": "Rabat",
+    "registration_date": "2024-01-21"
+  },
+  {
+    "customer_id": 103,
+    "first_name": "Omar",
+    "last_name": "El Idrissi",
+    "email": "user103@example.com",
+    "phone": "0634567890",
+    "city": "Marrakech",
+    "registration_date": "2023-07-10"
+  },
+  {
+    "customer_id": 104,
+    "first_name": "Imane",
+    "last_name": "Tazi",
+    "email": "user104@example.com",
+    "phone": "0645678901",
+    "city": "Fès",
+    "registration_date": "2024-02-05"
+  },
+  {
+    "customer_id": 105,
+    "first_name": "Hamza",
+    "last_name": "Amrani",
+    "email": "user105@example.com",
+    "phone": "0656789012",
+    "city": "Tanger",
+    "registration_date": "2023-06-28"
+  },
+  {
+    "customer_id": 106,
+    "first_name": "Khadija",
+    "last_name": "Lahlou",
+    "email": "user106@example.com",
+    "phone": "0667890123",
+    "city": "Agadir",
+    "registration_date": "2024-03-10"
+  },
+  {
+    "customer_id": 107,
+    "first_name": "Mehdi",
+    "last_name": "Chraibi",
+    "email": "user107@example.com",
+    "phone": "0678901234",
+    "city": "Meknès",
+    "registration_date": "2023-05-12"
+  },
+  {
+    "customer_id": 108,
+    "first_name": "Nadia",
+    "last_name": "Fassi",
+    "email": "user108@example.com",
+    "phone": "0689012345",
+    "city": "Oujda",
+    "registration_date": "2023-08-19"
+  },
+  {
+    "customer_id": 109,
+    "first_name": "Ayoub",
+    "last_name": "Berrada",
+    "email": "user109@example.com",
+    "phone": "0690123456",
+    "city": "Casablanca",
+    "registration_date": "2024-04-01"
+  },
+  {
+    "customer_id": 110,
+    "first_name": "Sara",
+    "last_name": "Mernissi",
+    "email": "user110@example.com",
+    "phone": "0701234567",
+    "city": "Rabat",
+    "registration_date": "2023-10-14"
+  },
+  {
+    "customer_id": 111,
+    "first_name": "Zakaria",
+    "last_name": "Ouazzani",
+    "email": "user111@example.com",
+    "phone": "0712345678",
+    "city": "Marrakech",
+    "registration_date": "2024-01-01"
+  },
+  {
+    "customer_id": 112,
+    "first_name": "Asmae",
+    "last_name": "Benjelloun",
+    "email": "user112@example.com",
+    "phone": "0723456789",
+    "city": "Fès",
+    "registration_date": "2023-09-30"
+  },
+  {
+    "customer_id": 113,
+    "first_name": "Hicham",
+    "last_name": "Skalli",
+    "email": "user113@example.com",
+    "phone": "0734567890",
+    "city": "Tanger",
+    "registration_date": "2024-02-18"
+  },
+  {
+    "customer_id": 114,
+    "first_name": "Chaimae",
+    "last_name": "El Mansouri",
+    "email": "user114@example.com",
+    "phone": "0745678901",
+    "city": "Agadir",
+    "registration_date": "2023-11-25"
+  },
+  {
+    "customer_id": 115,
+    "first_name": "Yassine",
+    "last_name": "Kadiri",
+    "email": "user115@example.com",
+    "phone": "0756789012",
+    "city": "Meknès",
+    "registration_date": "2023-07-05"
+  },
+  {
+    "customer_id": 116,
+    "first_name": "Meryem",
+    "last_name": "Bouzidi",
+    "email": "user116@example.com",
+    "phone": "0767890123",
+    "city": "Oujda",
+    "registration_date": "2023-06-15"
+  },
+  {
+    "customer_id": 117,
+    "first_name": "Anas",
+    "last_name": "Zerouali",
+    "email": "user117@example.com",
+    "phone": "0778901234",
+    "city": "Casablanca",
+    "registration_date": "2024-03-01"
+  },
+  {
+    "customer_id": 118,
+    "first_name": "Hajar",
+    "last_name": "Tahiri",
+    "email": "user118@example.com",
+    "phone": "0789012345",
+    "city": "Rabat",
+    "registration_date": "2023-04-22"
+  },
+  {
+    "customer_id": 119,
+    "first_name": "Bilal",
+    "last_name": "Boussaid",
+    "email": "user119@example.com",
+    "phone": "0790123456",
+    "city": "Marrakech",
+    "registration_date": "2023-08-10"
+  },
+  {
+    "customer_id": 120,
+    "first_name": "Lina",
+    "last_name": "Naciri",
+    "email": "user120@example.com",
+    "phone": "0611122233",
+    "city": "Fès",
+    "registration_date": "2023-12-01"
+  },
+  {
+    "customer_id": 121,
+    "first_name": "Reda",
+    "last_name": "Benkirane",
+    "email": "user121@example.com",
+    "phone": "0622233344",
+    "city": "Tanger",
+    "registration_date": "2024-01-10"
+  },
+  {
+    "customer_id": 122,
+    "first_name": "Aya",
+    "last_name": "Filali",
+    "email": "user122@example.com",
+    "phone": "0633344455",
+    "city": "Agadir",
+    "registration_date": "2023-09-20"
+  },
+  {
+    "customer_id": 123,
+    "first_name": "Soufiane",
+    "last_name": "Ait Lahcen",
+    "email": "user123@example.com",
+    "phone": "0644455566",
+    "city": "Meknès",
+    "registration_date": "2024-02-25"
+  },
+  {
+    "customer_id": 124,
+    "first_name": "Nour",
+    "last_name": "Belkadi",
+    "email": "user124@example.com",
+    "phone": "0655566677",
+    "city": "Oujda",
+    "registration_date": "2023-11-15"
+  },
+  {
+    "customer_id": 125,
+    "first_name": "Amine",
+    "last_name": "Draoui",
+    "email": "user125@example.com",
+    "phone": "0666677788",
+    "city": "Casablanca",
+    "registration_date": "2024-04-05"
+  },
+  {
+    "customer_id": 126,
+    "first_name": "Malak",
+    "last_name": "Raji",
+    "email": "user126@example.com",
+    "phone": "0677788899",
+    "city": "Rabat",
+    "registration_date": "2023-07-17"
+  },
+  {
+    "customer_id": 127,
+    "first_name": "Adil",
+    "last_name": "Sabri",
+    "email": "user127@example.com",
+    "phone": "0688899900",
+    "city": "Marrakech",
+    "registration_date": "2023-08-30"
+  },
+  {
+    "customer_id": 128,
+    "first_name": "Ilham",
+    "last_name": "Mouline",
+    "email": "user128@example.com",
+    "phone": "0699900011",
+    "city": "Fès",
+    "registration_date": "2023-06-11"
+  },
+  {
+    "customer_id": 129,
+    "first_name": "Rachid",
+    "last_name": "Bakkali",
+    "email": "user129@example.com",
+    "phone": "0700011223",
+    "city": "Tanger",
+    "registration_date": "2024-02-12"
+  },
+  {
+    "customer_id": 130,
+    "first_name": "Fatine",
+    "last_name": "Azizi",
+    "email": "user130@example.com",
+    "phone": "0711122334",
+    "city": "Agadir",
+    "registration_date": "2023-12-22"
+  }
+]
