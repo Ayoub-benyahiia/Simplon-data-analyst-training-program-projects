@@ -1,7 +1,0 @@
-data/raw/* 
-data/clean/* 
-*.db 
-.env 
-__pycache__/ 
-.ipynb_checkpoints/ 
-venv/
